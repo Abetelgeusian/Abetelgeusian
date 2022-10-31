@@ -10,7 +10,7 @@ Skills: Python, C,
 - 📫 How to reach me: hvarpe@clemson.edu 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abetelgeusian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshal-varpe//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Abetelgeusian)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIZdOQnr%2BQki0rsBl6acOBg%3D%3D)' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshal-varpe//)  
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abetelgeusian)](https://github.com/anuraghazra/github-readme-stats)
 
