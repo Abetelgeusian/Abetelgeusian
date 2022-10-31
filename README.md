@@ -12,8 +12,8 @@ AuE8230Spring22_Harshal_Varpe \
 AuE8230_Spring22_Group3     
 Both of these Repository contain my projects related Robotic Operating System (ROS). The Work in both the repositories is different.
 
- ECE631 Introduction to Computer Vision \ 
- This repository contains all the mini projects completes to understand the underlining working of the Computer Vision. All the work in this repo is done in C.
+ECE631 Introduction to Computer Vision \
+This repository contains all the mini projects completes to understand the underlining working of the Computer Vision. All the work in this repo is done in C.
 
 
 
