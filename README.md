@@ -9,7 +9,7 @@ ECE-6420-Knowledge-Engineering - This repo contains different machine learning p
 
 AuE8230Spring22_Harshal_Varpe
 AuE8230_Spring22_Group3        - Both of these Repository contain my projects related Robotic Operating System (ROS).
-                                 Work in both the repositories is different.
+                               - Work in both the repositories is different.
 
 
 
