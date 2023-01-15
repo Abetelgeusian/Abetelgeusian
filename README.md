@@ -19,7 +19,7 @@ This repository contains all the mini projects completes to understand the under
 
 Skills: Python, C,
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on my website and learning C++. 
 - 🌱 I’m currently learning Machine Learning. 
 - 📫 How to reach me: hvarpe@clemson.edu 
 
