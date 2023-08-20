@@ -1,27 +1,26 @@
 ### Hi there 👋, my name is Harshal.
 
-I am a master's student at Clemson University International Center for Automotive Research with a focus on vehicle autonomy.
+I am a master's student at Clemson University International Center for Automotive Research focusing on vehicle autonomy.
 I am interested in Machine Learning, Reinforcement learning and their application in vehicles.
 
-You will see all my project work here. Since, the repositories have course name, I have explained below what to expect in each of the repository.
+You will see all my project work here. Some of the repositories have course names. I have explained below what to expect in each repository.
 
 ECE-6420-Knowledge-Engineering\
-This repo contains different machine learning problems, I have solved, to learn/create ML foundation.
+This repo contains different machine learning problems I have solved to learn/create ML foundation.
 
 AuE8230Spring22_Harshal_Varpe \
 AuE8230_Spring22_Group3     
-Both of these Repository contain my projects related Robotic Operating System (ROS). The Work in both the repositories is different.
+Both of these repositories contain my projects related to Robotic Operating Systems (ROS). The Work in both repositories is different.
 
 ECE631 Introduction to Computer Vision \
-This repository contains all the mini projects completes to understand the underlining working of the Computer Vision. All the work in this repo is done in C.
+This repository contains all the mini-projects completed to understand the underlining workings of Computer Vision. All the work in this repo is done in C.
 
 
 
 Skills: Python, C,
 
-- 🔭 I’m currently working on my website and learning C++. 
-- 🌱 I’m currently learning Machine Learning. 
-- 📫 How to reach me: hvarpe@clemson.edu 
+- 🔭 I’m currently learning C++. 
+- 📫 How to reach me: hvarpe@hotmail.com
 
 
 [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Abetelgeusian)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshal-varpe//)  
