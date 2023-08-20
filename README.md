@@ -17,7 +17,7 @@ This repository contains all the mini-projects completed to understand the under
 
 
 
-Skills: Python, C,
+Skills: Python, C, C++
 
 - 🔭 I’m currently learning C++. 
 - 📫 How to reach me: hvarpe@hotmail.com
