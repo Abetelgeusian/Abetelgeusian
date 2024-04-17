@@ -1,25 +1,28 @@
-### Hi there 👋, my name is Harshal.
+## Hi there 👋, my name is Harshal.
 
-I am a master's student at Clemson University International Center for Automotive Research focusing on vehicle autonomy.
-I am interested in Machine Learning, Reinforcement learning and their application in vehicles.
+I graduated with Master's in Automotive Engineering at Clemson University focusing on vehicle autonomy/wheeled robotics.
+I am interested in Software-in-Loop testing, Computer vision and its application in vehicle and wheled robotics, Robot Operating System and its different falvours.
 
 You will see all my project work here. Some of the repositories have course names. I have explained below what to expect in each repository.
 
-## ECE-6420-Knowledge-Engineering
+#### ECE-6420-Knowledge-Engineering
 This repo contains different machine learning problems I have solved to learn/create ML foundation.
 
-## AuE8230Spring22_Harshal_Varpe & AuE8230_Spring22_Group3     
+#### AuE8230Spring22_Harshal_Varpe & AuE8230_Spring22_Group3     
 Both of these repositories contain my projects related to Robotic Operating Systems (ROS). The Work in both repositories is different.
 
-## ECE631 Introduction to Computer Vision 
+#### ECE631 Introduction to Computer Vision 
 This repository contains all the mini-projects completed to understand the underlining workings of Computer Vision. All the work in this repo is done in C.
 
-## Analysis of Tracking Systems
+#### Analysis of Tracking Systems
 This repository holds implementation of Kalman filter, Extended Kalman Filter and Particle Filter for their respective problems and reports on those implementation.
 
+#### F1_Tenth_CPP
+This repository hold the lab work done for F1 tenth to practise ROS2 Humble and CPP.
 
 
-Skills: Python, C, C++
+
+## Skills: Python, C, C++
 
 - 🔭 I’m practicing C++ Data Structures and Algorithms. 
 - 📫 How to reach me: hvarpe@hotmail.com
