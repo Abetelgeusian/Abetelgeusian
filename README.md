@@ -19,7 +19,7 @@ This repository contains all the mini-projects completed to understand the under
 
 Skills: Python, C, C++
 
-- 🔭 I’m currently learning C++. 
+- 🔭 I’m practicing C++ Data Structures and Algorithms. 
 - 📫 How to reach me: hvarpe@hotmail.com
 
 
