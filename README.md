@@ -5,14 +5,14 @@ I am interested in Machine Learning, Reinforcement learning and their applicatio
 
 You will see all my project work here. Some of the repositories have course names. I have explained below what to expect in each repository.
 
-ECE-6420-Knowledge-Engineering\
+##ECE-6420-Knowledge-Engineering\
 This repo contains different machine learning problems I have solved to learn/create ML foundation.
 
-AuE8230Spring22_Harshal_Varpe \
-AuE8230_Spring22_Group3     
+##AuE8230Spring22_Harshal_Varpe \
+##AuE8230_Spring22_Group3     
 Both of these repositories contain my projects related to Robotic Operating Systems (ROS). The Work in both repositories is different.
 
-ECE631 Introduction to Computer Vision \
+##ECE631 Introduction to Computer Vision \
 This repository contains all the mini-projects completed to understand the underlining workings of Computer Vision. All the work in this repo is done in C.
 
 
